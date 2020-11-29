@@ -5,9 +5,9 @@ use it as :
  > python3 downloader.py <URL>
 
 install following requerments 
-> glob
-> requests
-> io
+> glob ,
+> requests ,
+> io ,
 > wget
 
 Notes:
